@@ -1,10 +1,15 @@
-import React from "react";
+import React, { Component, Fragment } from "react";
+import CardGrid from "./CardGrid";
 
-const Css = () => (
-  <div>
-    <h1>Daily CSS Images</h1>
-    <p>intro para. below this will be the entries iterated over a json file.</p>
-  </div>
-);
+class Css extends Component {
+  render() {
+    return (
+      <Fragment>
+        <h1 className="cssTitle">Daily CSS Images</h1>
+        <CardGrid />
+      </Fragment>
+    );
+  }
+}
 
 export default Css;

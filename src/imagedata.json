@@ -1,0 +1,94 @@
+[
+  {
+    "id": 43,
+    "challenge": "css",
+    "day": 43,
+    "title": "Animal mascot",
+    "image": "",
+    "url": "https://codepen.io/ihatetoast/pen/JJJdmV/",
+    "desc":
+      "First off: this is a city mascot, not an AFL footy one. Ok. Now that's out in the open. I lived in Brisbane for 8.5 years and was beaned by these fellas every stinkin' day. I commuted by bike and ran, so beaned I was. I like them, though. I wanted to mae this one cute, but with an eyeball so we all knew what he could do.",
+    "date": "21 June 2017"
+  },
+
+  {
+    "id": 44,
+    "challenge": "css",
+    "day": 44,
+    "title": "Robot",
+    "image": "",
+    "url": "https://codepen.io/ihatetoast/pen/VWWGQX/",
+    "desc":
+      "She might be one of my favourites. She is cute, makes the good stuff, and is animated because she's full of endless coffee. I kept most of the animations set to  infinite because watching her relaxed me.",
+    "date": "22 June 2017"
+  },
+
+  {
+    "id": 45,
+    "challenge": "css",
+    "day": 45,
+    "title": "Space Mascot",
+    "image": "",
+    "url": "https://codepen.io/ihatetoast/pen/vZJJRd/",
+    "desc":
+      "I wanted to focus on a planet and make it semi-educational. I remember Jupiter's satellites (Io, Europa, Ganymede, Callisto) with this mnemonic: \"I eat guacamole and chips.\" I wanted to get them to orbit, but I don't have the time to set up their path with a curve AND have them disappear around Jupiter. I'd like to come back to that.",
+    "date": "23 June 2017"
+  },
+  {
+    "id": 46,
+    "challenge": "css",
+    "day": 46,
+    "title": "Piñata",
+    "image": "",
+    "url": "",
+    "desc":
+      "Very little time today, so left it as a clippy star with squares of box-shadows. With more time, I'd like to make two stars that look like they're one but split to release the candy. Also to have the squares over the stars to look like they're on top and not nested in. Those were things I had thought about, but I have a day of appointments, and FINALLY my idea-eyes did not get larger than time-stomach.",
+    "date": "26 June 2017"
+  },
+
+  {
+    "id": 47,
+    "challenge": "css",
+    "day": 47,
+    "title": "Cake",
+    "image": "",
+    "url": "https://codepen.io/ihatetoast/pen/XgzPry/",
+    "desc":
+      "Nothing fancy here. I don't know how to do a for-loop where my blobs can curve, so while nothing is fancy here, I have added another stinkin' item on my to-learn list.",
+    "date": "27 June 2017"
+  },
+
+  {
+    "id": 48,
+    "challenge": "css",
+    "day": 48,
+    "title": "Craft Beer",
+    "image": "",
+    "url": "https://codepen.io/ihatetoast/pen/zzpRPq/",
+    "desc":
+      "I don't drink beer, so the task of creating a \"craft beer\" did my head in. I tried to make my own brand, but that got too complicated. I reminded myself that Py Ladies of Austin was looking for a southside place to meet up. I had joked about calling it Pynts. Et voila",
+    "date": "28 June 2017"
+  },
+  {
+    "id": 49,
+    "challenge": "css",
+    "day": 49,
+    "title": "Dance Dance Revolution pad",
+    "image": "",
+    "url": "https://codepen.io/ihatetoast/pen/pwagZK/",
+    "desc":
+      "Exhausting! So many working parts to move. I think it is the symmetry that vexed me. It's full of clip-path, so some browsers will not be able to see it, but watchagonnado?",
+    "date": "29 June 2017"
+  },
+  {
+    "id": 50,
+    "challenge": "css",
+    "day": 50,
+    "title": "Party City",
+    "image": "",
+    "url": "https://codepen.io/ihatetoast/pen/EXEjMP/",
+    "desc":
+      "Just fun with animations. It might be nauseating, but think of it as the consequence of too many drinks celebrating the end of a challenge. All the challenges are windows. The trees are a green that I divided into thirds by RGB and had the opacity at 0.33%. Who said that you can&apos;t use math here? I am done for a while. This took up a lot of morning time. I miss JavaScript. I'll do another one of Coding Artist's challenges, but not for a few months. Ballance.",
+    "date": "30 June 2017"
+  }
+]

@@ -6,6 +6,7 @@ import Home from "./components/Home";
 import Css from "./components/Css";
 import Svgs from "./components/Svgs";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 const App = () => (
   <Router>
@@ -15,6 +16,7 @@ const App = () => (
       <Route exact path="/css" component={Css} />
       <Route exact path="/svgs" component={Svgs} />
       <Route exact path="/contact" component={Contact} />
+      <Footer />
     </div>
   </Router>
 );

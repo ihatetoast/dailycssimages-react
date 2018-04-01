@@ -1,21 +1,21 @@
-import React from "react";
+import React,{Fragment}from "react";
 
 const Home = () => (
-  <div>
-    <h1>Home Page</h1>
+  <Fragment>
+    <h1>Daily Challenges</h1>
+    <div className="textPara">
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque velit,
-      lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi ac dui
-      fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras non risus
-      mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet ac. Sed nec
-      nulla aliquam, bibendum odio eget, vestibulum tortor. Cras rutrum ligula
-      in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec
-      nec ornare elit. Donec blandit est sed risus feugiat porttitor. Vestibulum
-      molestie hendrerit massa non consequat. Vestibulum vitae lorem tortor. In
-      elementum ultricies tempus. Interdum et malesuada fames ac ante ipsum
-      primis in faucibus.
+      In 2017, I did a full round of The Coding Artist's Daily CSS Images followed briefly by Daily SVG Images. The challenges ran Monday to Friday with the weekends off for 10 weeks. I participated in Daily CSS Images first, took a week off, and started daily SVGs; however, Coding Artist could not continue and the daily SVGs were not completed.
     </p>
-  </div>
+    <p>After my first round, I quickly built a static HTML site to showcase my finished works. It was a lot of repetition of the same stuff, so ... DIY with ReactJS. </p>
+    <p>Once I finish building this site with ReactJS, I plan to participate in another round to keep my Sass and SVG skills up. I also plan allowing comments and likes, and persisting this on Firebase. </p>
+    </div>
+  <ul>
+  <a href="https://medium.com/coding-artist" target="_blank" rel="noopener noreferrer" ><li>The Coding Artist</li></a>
+  <a href="http://dailycssimages.com/" target="_blank" rel="noopener noreferrer" ><li>Daily CSS Images Challenge</li></a>
+  <a href="https://medium.com/coding-artist/a-beginners-guide-to-vector-graphic-design-815cb1cb4d70" target="_blank" rel="noopener noreferrer" ><li>Daily SVG Images info</li></a>
+  </ul>
+  </Fragment>
 );
 
 export default Home;
