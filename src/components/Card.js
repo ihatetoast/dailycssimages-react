@@ -2,21 +2,20 @@ import React, { Fragment } from "react";
 
 const Card = props => (
   <Fragment>
-    <h1 className="title">
-      {props.day}: {props.title}
-    </h1>
+    <h2 className="prompt">
+      Day {props.day} (Prompt: {props.prompt})
+    </h2>
+    <h3 className="title">{props.title}</h3>
     <h3 className="date">{props.date}</h3>
+    <div>
     <a href={props.url}>
-      <img
-        alt="placeholder of Bill Fkn Murray"
-        src="https://www.fillmurray.com/300/200"
-      />
+    <img alt={props.title} src={props.image} />
     </a>
-
     <p className="cssDesc">{props.desc}</p>
-    <p className="code">
+    <p className="code"></p>
+    </div>
+    
       <a href={props.url}>View on Codepen</a>
-    </p>
   </Fragment>
 );
 //i need to do all 50 on here and then do screenshots from codepen. THEN replace fillmurray

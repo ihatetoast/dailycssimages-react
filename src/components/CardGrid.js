@@ -22,8 +22,10 @@ class CardGrid extends Component {
       renderedCards: imageData.map(item => (
         <Card
           id={item.id}
+          key={item.id}
           challenge={item.challenge}
           day={item.day}
+          prompt={item.prompt}
           title={item.title}
           image={item.image}
           url={item.url}
