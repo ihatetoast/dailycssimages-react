@@ -4,7 +4,7 @@
     "challenge": "css",
     "day": 50,
     "prompt": "Party City",
-    "title":"Challenge City",
+    "title": "Challenge City",
     "image": "./images/partycity.gif",
     "url": "https://codepen.io/ihatetoast/pen/EXEjMP/",
     "desc":
@@ -15,7 +15,7 @@
     "id": 2,
     "challenge": "css",
     "day": 49,
-    "prompt":"DDR pad",
+    "prompt": "DDR pad",
     "title": "Dance Dance Revolution pad",
     "image": "./images/ddrpad.png",
     "url": "https://codepen.io/ihatetoast/pen/pwagZK/",
@@ -28,7 +28,7 @@
     "challenge": "css",
     "day": 48,
     "prompt": "Craft Beer",
-    "title":"Make your backend happy: 'Ave a Pynt",
+    "title": "Make your backend happy: 'Ave a Pynt",
     "image": "./images/pynt.gif",
     "url": "https://codepen.io/ihatetoast/pen/zzpRPq/",
     "desc":
@@ -52,7 +52,7 @@
     "challenge": "css",
     "day": 46,
     "prompt": "Piñata",
-    "title":"Piñata Star",
+    "title": "Piñata Star",
     "image": "./images/pinata.png",
     "url": "https://codepen.io/ihatetoast/pen/XgeoPb/",
     "desc":
@@ -96,26 +96,27 @@
     "date": "21 June 2017"
   },
   {
-    "id":42,
-    "challenge":"css",
-    "day":42 ,
-    "prompt":"Cute Critter",
+    "id": 42,
+    "challenge": "css",
+    "day": 42,
+    "prompt": "Cute Critter",
     "title": "Pink Fairy Armadillo",
-    "image":"./images/armadillo.png",
+    "image": "./images/armadillo.png",
     "url": "https://codepen.io/ihatetoast/pen/zzwKrZ/",
-    "desc":"I love the pink fairy armadillo, so when I had the option to do this challenge, I knew which animal I'd do. I would have loved to show it look more like an armadillo (bands), but then I'd lose more time than I can afford to give today. I am learning to kill my darlings (Thank you, Stephen King).",
-    "date":"20 June 2017"
+    "desc":
+      "I love the pink fairy armadillo, so when I had the option to do this challenge, I knew which animal I'd do. I would have loved to show it look more like an armadillo (bands), but then I'd lose more time than I can afford to give today. I am learning to kill my darlings (Thank you, Stephen King).",
+    "date": "20 June 2017"
   },
   {
-    "id":41,
-    "challenge":"css",
+    "id": 41,
+    "challenge": "css",
     "day": 41,
     "prompt": "Mascot for a start up",
-    "title":"Dirty Gerty",
-    "image":"./images/gerty.png",
+    "title": "Dirty Gerty",
+    "image": "../src/images/gerty.png",
     "url": "https://codepen.io/ihatetoast/pen/LLWQKN/",
-    "desc":"As someone who does not have a car, I found ride share companies useless for many things that are dirty or messy. How do you get from a nursery to home with manure? Or get your big smelly dog to the vet or groomers? You call a ride share that's not afraid to get dirty. Yucky Truckies maybe? So their mascot is Dirty Gerty. Dirt on the face is hard to do.",
-    "date":"19 June 2017"
+    "desc":
+      "As someone who does not have a car, I found ride share companies useless for many things that are dirty or messy. How do you get from a nursery to home with manure? Or get your big smelly dog to the vet or groomers? You call a ride share that's not afraid to get dirty. Yucky Truckies maybe? So their mascot is Dirty Gerty. Dirt on the face is hard to do.",
+    "date": "19 June 2017"
   }
 ]
-

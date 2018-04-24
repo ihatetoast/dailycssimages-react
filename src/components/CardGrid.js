@@ -1,6 +1,6 @@
-import React, { Component } from "react";
-import Card from "./Card";
-import imageData from "../imagedata.json";
+import React, { Component } from 'react';
+import Card from './Card';
+import imageData from '../imagedata.json';
 
 class CardGrid extends Component {
   constructor(props) {
@@ -8,8 +8,9 @@ class CardGrid extends Component {
     this.state = {
       renderedCards: []
     };
-    console.log("i am the card grid");
+    console.log('i am the card grid');
     console.log(imageData);
+
     this.renderCards = this.renderCards.bind(this);
   }
   componentWillMount() {
